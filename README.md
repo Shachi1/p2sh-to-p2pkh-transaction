@@ -1,1 +1,1 @@
-# p2sh-to-p2pkh-transaction
+# p2sh to p2pkh transaction
